@@ -7,6 +7,6 @@
 # Exercise4: Functions and parameters. The purpose of Exercise 4 is to practice functions in C
 # Exercise5: Main function’s parametersand arrays.The purpose of Exercise 5 is to practice main function’s parameters and arrays
 # Exercise6: Pointers. The purpose of Exercise 6 is to practice pointers and arrays.
-# Exercise7: -----------YET TO BE DONE---------------------------
-# Exercise8: -----------YET TO BE DONE---------------------------
+# Exercise7: MAKEFILE, header files, main file, function files, matrix modification
+# Exercise8: Memory allocation, Structs, FILE I/0, Struct modify
 # Final project: -------YET TO BE DONE---------------------------
