@@ -1,0 +1,7 @@
+Name: Noora, ID: 123456, GPA: 8.7
+Name: Ville, ID: 654321, GPA: 7.8
+Name: Jussi, ID: 09876,  GPA: 9.0
+Name: Linnea, ID: 67890, GPA: 0.9
+Name: krista, id: 123234, gpa: 1.34
+Name: karri, ID: 123234, GPA: 0.12
+Name: helena, ID: 123457, GPA: 4.12
